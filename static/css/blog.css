@@ -1,0 +1,22 @@
+.body{
+  background-image: url"static/image/TopGUn.PNG","static/image/ninja.PNG"
+  background-attachment: fixed;
+  background-size: 210%, 200%;
+  background-repeat: no-repeat, no-repeat;
+  background-position: 145% 0, 0 0;
+}
+
+h1{
+  display: flex;
+  font-display: fallback;
+  font: geneva, sans-serif;
+  color: #04ec9f
+}
+
+h2,p{
+   display: flex;
+  font-display: fallback;
+  font: geneva, sans-serif;
+  color: #04ec9f
+  
+}
